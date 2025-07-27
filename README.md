@@ -1,6 +1,6 @@
 # Full Stack Real‑Time Chat App
 
-> A modern real‑time chat application built with the **MERN stack**, **Socket.io**, and **TailwindCSS + Daisy UI**, featuring user authentication with JWT, online status, and global state management via Zustand.
+> A modern real‑time chat application built with the **MERN stack**, **Socket.io**, and **TailwindCSS + Daisy UI**, featuring user authentication with JWT, online status.
 
 
 
